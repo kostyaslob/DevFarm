@@ -119,7 +119,7 @@ img {
 }
 
 .hero-img {
-    background-image: linear-gradient(#14141433, #14141433), url(/images/hero-mobile.jpg);
+    background-image: linear-gradient(#14141433, #14141433), url(/images/hero-mob.jpg);
     max-width: 100%;
     height: 372px;
     background-repeat: no-repeat;
@@ -185,7 +185,7 @@ img {
     .hero-img {
         background-image: linear-gradient(rgba(20, 20, 20, 0.2),
                 rgba(20, 20, 20, 0.2)),
-            url(/images/hero_mobile.jpg);
+            url();
         width: 640px;
         height: 796px;
     }
